@@ -39,3 +39,7 @@ UI | Description
 - [ ] Port to Maya & Blender
 
 In case of, issues or feedback, fee free to send a mail to: tooldev@dhruva.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pbiswal/mxs-simplymaps/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
